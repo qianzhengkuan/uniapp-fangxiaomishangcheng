@@ -1,0 +1,10 @@
+
+page {
+	background-color: #f5f5f5;
+}
+.tabactive {
+	border-bottom: 5rpx solid #fd6801;
+	color: #fd6801;
+	margin-bottom: -5rpx;
+}
+

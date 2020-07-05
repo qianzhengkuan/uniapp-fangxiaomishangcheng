@@ -1,0 +1,6 @@
+
+view.active {
+	font-size: 35rpx;
+	color: #f46d01;
+}
+
